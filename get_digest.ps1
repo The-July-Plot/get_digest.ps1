@@ -45,7 +45,7 @@ write-Host
 ""
 $hash1_md5
 ""
-#$hash1_md5 = "TWAT"
+#$hash1_md5 = "test"
 
 Read-host "press any key to contine..."
 
