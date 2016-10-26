@@ -18,7 +18,7 @@ function Show-Menu
 \____|__  /\___  >__|  |____|  /__/\_ \
         \/     \/                    \/ 
        Get hash digest tool
-     thomas.moore@edrington.com
+     thomas
                     '
      )
      
